@@ -288,13 +288,6 @@ Psalam 108,4-6
             <offset x="-4.08165" y="-3"/>
             <text>A</text>
             </RehearsalMark>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -344,10 +337,6 @@ Psalam 108,4-6
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>16</root>
-            <name>m</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -394,32 +383,21 @@ Psalam 108,4-6
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <root>18</root>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -455,9 +433,6 @@ Psalam 108,4-6
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -537,9 +512,6 @@ Psalam 108,4-6
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <Harmony>
-            <root>14</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -591,9 +563,6 @@ Psalam 108,4-6
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>18</root>
-            </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -601,10 +570,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -669,10 +634,6 @@ Psalam 108,4-6
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>16</root>
-            <name>m</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -737,20 +698,10 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <root>18</root>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -758,10 +709,6 @@ Psalam 108,4-6
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -810,10 +757,6 @@ Psalam 108,4-6
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <root>16</root>
-            <name>m</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -885,16 +828,9 @@ Psalam 108,4-6
             <offset x="-1.41288" y="-3.78493"/>
             <text>B</text>
             </RehearsalMark>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <Harmony>
-            <root>18</root>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -922,10 +858,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -968,9 +900,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1073,9 +1002,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>18</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1139,10 +1065,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>17</root>
-            <name>m</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1208,9 +1130,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>13</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1251,9 +1170,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>15</root>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1350,9 +1266,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>14</root>
-            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -1364,10 +1277,6 @@ Psalam 108,4-6
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>18</root>
-            <name>7</name>
-            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Spanner type="Slur">
@@ -1393,9 +1302,6 @@ Psalam 108,4-6
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1491,6 +1397,9 @@ Psalam 108,4-6
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -2407,9 +2316,6 @@ Psalam 108,4-6
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2505,6 +2411,9 @@ Psalam 108,4-6
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -3411,9 +3320,6 @@ Psalam 108,4-6
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -3509,6 +3415,9 @@ Psalam 108,4-6
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
