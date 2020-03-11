@@ -14114,11 +14114,11 @@ staffOne = \relative c' {
   
   \mark \markup { \box \bold A }
   r8 e8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 f8 f8 ~ |
   f8 e4. r2 |
   r8 e4 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 c8 a8 |
   r2 r8 a'4 h8 |
   \bar ".|:" 
@@ -14132,38 +14132,32 @@ staffOne = \relative c' {
   \set Score.repeatCommands = #'((volta "1.3."))
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
-  e2 ) r8 a4 h8
+  e2 ) r8 a4 h8 \bar ":|." |
   
-  \bar ":|." |
-  
+  \set Score.repeatCommands = #'((volta "2."))
   
   \set Score.repeatCommands = #'((volta #f))
-  \set Score.repeatCommands = #'((volta "2."))
-
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
-  e1 )
-  
-  \bar "||" |
+  e1 ) \bar "||" |
   
   \set Score.repeatCommands = #'((volta #f))
+  
   \set Score.repeatCommands = #'((volta "4."))
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
   e1 ) |
-  a8. a16 ~ a8 g8 a4 r4
+  a8. a16 ~ a8 g8 a4 r4 \bar "|." |
   
-  \bar "|." |
-  
+  \mark \markup { \box \bold C }
   
   \set Score.repeatCommands = #'((volta #f))
-  \mark \markup { \box \bold C }
   r8 e8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 ( f8 ) f8 ( ~ |
   f8 e4. ) r2 |
   r8 e8 e8 c8 d4 ( f8 ) e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 ( c8 ) a8 |
   r2 r8 a'4 h8 \bar ":|." |
 }
@@ -14172,11 +14166,11 @@ staffTwo = \relative c' {
   \clef treble
   \time 4/4
   r8 e8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 f8 f8 ~ |
   f8 e4. r2 |
   r8 e4 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 c8 a8 |
   r2 r8 a'4 h8 |
   c4 e,4 r4 r8 c'8 |
@@ -14195,11 +14189,11 @@ staffTwo = \relative c' {
   e1 ) |
   a8. a16 ~ a8 g8 a4 r4 \bar "|." |
   r8 e8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 ( f8 ) f8 ( ~ |
   f8 e4. ) r2 |
   r8 e8 e8 c8 d4 ( f8 ) e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 ( c8 ) a8 |
   r2 r8 a'4 h8 |
 }
@@ -14208,11 +14202,11 @@ staffThree = \relative c' {
   \clef treble
   \time 4/4
   r8 e8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 f8 f8 ~ |
   f8 e4. r2 |
   r8 e4 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 c8 a8 |
   r2 r8 e'4 gis8 |
   a4 e4 r4 r8 a8 |
@@ -14231,11 +14225,11 @@ staffThree = \relative c' {
   e1 ) |
   e8. e16 ~ e8 d8 e4 r4 \bar "|." |
   r8 e8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 ( f8 ) f8 ( ~ |
   f8 e4. ) r2 |
   r8 e8 e8 c8 d4 ( f8 ) e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 ( c8 ) a8 |
   r2 r8 e'4 gis8 |
 }
@@ -14245,11 +14239,11 @@ staffFour = \relative c' {
   \clef bass
   \time 4/4
   r8 e,8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 f8 f8 ~ |
   f8 e4. r2 |
   r8 e4 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 c8 a8 |
   r2 r8 c'4 d8 |
   e4 a,4 r4 r8 e'8 |
@@ -14268,11 +14262,11 @@ staffFour = \relative c' {
   h1 ) |
   c8. c16 ~ c8 h8 c4 r4 \bar "|." |
   r8 e,8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 ( f8 ) f8 ( ~ |
   f8 e4. ) r2 |
   r8 e8 e8 c8 d4 ( f8 ) e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 ( c8 ) a8 |
   r2 r8 c'4 d8 |
 }
@@ -14281,11 +14275,11 @@ staffFive = \relative c' {
   \clef bass
   \time 4/4
   r8 e,8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 f8 f8 ~ |
   f8 e4. r2 |
   r8 e4 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 c8 a8 |
   r2 r8 c4 h8 |
   a4 c4 r4 r8 a8 |
@@ -14304,11 +14298,11 @@ staffFive = \relative c' {
   gis1 ) |
   a8. a16 ~ a8 g8 a4 r4 \bar "|." |
   r8 e8 e8 c8 d4 f8 e8 |
-  R1 |
+  r1 |
   r8 e4 f8 g4 ( f8 ) f8 ( ~ |
   f8 e4. ) r2 |
   r8 e8 e8 c8 d4 ( f8 ) e8 |
-  R1 |
+  r1 |
   r8 e8 e8 c8 d4 ( c8 ) a8 |
   r2 r8 c4 h8 |
 }
@@ -14351,7 +14345,7 @@ lyricFiveZero = \lyricmode {
     %choir start
     \new ChoirStaff {
         <<
-        \new Staff {
+        \new Staff \with { \consists "Merge_rests_engraver" } {
             <<
             \new Voice = "sopran" { \voiceOne \staffTwo }
             \new Voice = "alt" { \voiceTwo \staffThree }
@@ -14359,8 +14353,7 @@ lyricFiveZero = \lyricmode {
             \new Lyrics \lyricsto "lead" { \lyricOneZero }
             >>
         }
-        \new Lyrics \lyricsto "lead" { \lyricOneZero }
-        \new Staff {
+        \new Staff \with { \consists "Merge_rests_engraver" } {
             <<
             \new Voice = "tenor" { \voiceOne \staffFour }
             \new Voice = "bass" { \voiceTwo \staffFive }
