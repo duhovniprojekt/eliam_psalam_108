@@ -592,7 +592,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 4, lastPitch 60, pitch 64, tpcDiff 4
+%% pitchDiff 4, lastPitch 60, pitch 64, tpcDiff 4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -611,7 +611,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -632,7 +632,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -655,7 +655,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -672,7 +672,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -691,7 +691,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -754,7 +754,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -773,7 +773,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
+%% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -798,7 +798,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
+%% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -817,7 +817,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -836,7 +836,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -878,7 +878,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -901,7 +901,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 1
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -948,7 +948,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -967,7 +967,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -994,7 +994,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1013,7 +1013,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1032,7 +1032,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1095,7 +1095,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1114,7 +1114,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1135,7 +1135,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1158,7 +1158,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1177,7 +1177,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1196,7 +1196,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1241,7 +1241,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 12, lastPitch 57, pitch 69, tpcDiff 0
+%% pitchDiff 12, lastPitch 57, pitch 69, tpcDiff 0
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -1259,7 +1259,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1296,7 +1296,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/RehearsalMark
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 72 14 quarter 
-% pitchDiff 1, lastPitch 71, pitch 72, tpcDiff -5
+%% pitchDiff 1, lastPitch 71, pitch 72, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1315,7 +1315,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff -8, lastPitch 72, pitch 64, tpcDiff 4
+%% pitchDiff -8, lastPitch 72, pitch 64, tpcDiff 4
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -1345,7 +1345,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 72 14 eighth 
-% pitchDiff 8, lastPitch 64, pitch 72, tpcDiff -4
+%% pitchDiff 8, lastPitch 64, pitch 72, tpcDiff -4
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -1373,7 +1373,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 72 14 eighth 
-% pitchDiff 0, lastPitch 72, pitch 72, tpcDiff 0
+%% pitchDiff 0, lastPitch 72, pitch 72, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1403,7 +1403,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff -1, lastPitch 72, pitch 71, tpcDiff 5
+%% pitchDiff -1, lastPitch 72, pitch 71, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1415,7 +1415,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
+%% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -1436,7 +1436,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1470,7 +1470,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
+%% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -1491,7 +1491,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 quarter 
-% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
+%% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1508,7 +1508,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
+%% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1537,7 +1537,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 quarter 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1556,7 +1556,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff -7, lastPitch 71, pitch 64, tpcDiff -1
+%% pitchDiff -7, lastPitch 71, pitch 64, tpcDiff -1
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -1581,7 +1581,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 74 16 eighth 
-% pitchDiff 10, lastPitch 64, pitch 74, tpcDiff -2
+%% pitchDiff 10, lastPitch 64, pitch 74, tpcDiff -2
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -1601,7 +1601,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 74 16 eighth 
-% pitchDiff 0, lastPitch 74, pitch 74, tpcDiff 0
+%% pitchDiff 0, lastPitch 74, pitch 74, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1620,7 +1620,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 72 14 eighth 
-% pitchDiff -2, lastPitch 74, pitch 72, tpcDiff -2
+%% pitchDiff -2, lastPitch 74, pitch 72, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1653,7 +1653,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff -1, lastPitch 72, pitch 71, tpcDiff 5
+%% pitchDiff -1, lastPitch 72, pitch 71, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1683,7 +1683,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
+%% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -1704,7 +1704,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
+%% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1733,7 +1733,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1760,7 +1760,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1779,7 +1779,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 quarter 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1798,7 +1798,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 quarter 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1857,7 +1857,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Spanner
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
+%% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1876,7 +1876,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1910,7 +1910,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
+%% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -1931,7 +1931,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1950,7 +1950,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -1971,7 +1971,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2015,7 +2015,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2053,7 +2053,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 half 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -2094,7 +2094,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
+%% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2111,7 +2111,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2164,7 +2164,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Spanner
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff -4, lastPitch 71, pitch 67, tpcDiff -4
+%% pitchDiff -4, lastPitch 71, pitch 67, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2183,7 +2183,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2217,7 +2217,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
+%% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -2238,7 +2238,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2257,7 +2257,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2278,7 +2278,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2322,7 +2322,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2357,7 +2357,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -2442,7 +2442,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Spanner
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 3, lastPitch 64, pitch 67, tpcDiff -3
+%% pitchDiff 3, lastPitch 64, pitch 67, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2461,7 +2461,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2495,7 +2495,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
+%% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -2516,7 +2516,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2535,7 +2535,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2556,7 +2556,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2600,7 +2600,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2635,7 +2635,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -2681,7 +2681,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 1
-% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
+%% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
@@ -2702,7 +2702,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 16th 
-% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
+%% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2736,7 +2736,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
+%% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -2757,7 +2757,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2774,7 +2774,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
+%% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2832,7 +2832,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -5, lastPitch 69, pitch 64, tpcDiff 1
+%% pitchDiff -5, lastPitch 69, pitch 64, tpcDiff 1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2851,7 +2851,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2870,7 +2870,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2897,7 +2897,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2914,7 +2914,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2933,7 +2933,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -2996,7 +2996,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3013,7 +3013,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
+%% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3036,7 +3036,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
+%% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3066,7 +3066,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -3087,7 +3087,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3146,7 +3146,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -3169,7 +3169,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 1
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -3220,7 +3220,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3237,7 +3237,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3256,7 +3256,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3283,7 +3283,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3313,7 +3313,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -3334,7 +3334,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3397,7 +3397,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3414,7 +3414,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3431,7 +3431,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3454,7 +3454,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Harmony
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3484,7 +3484,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -3505,7 +3505,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3553,7 +3553,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 12, lastPitch 57, pitch 69, tpcDiff 0
+%% pitchDiff 12, lastPitch 57, pitch 69, tpcDiff 0
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -3571,7 +3571,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3609,7 +3609,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 4, lastPitch 60, pitch 64, tpcDiff 4
+%% pitchDiff 4, lastPitch 60, pitch 64, tpcDiff 4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3628,7 +3628,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3649,7 +3649,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3666,7 +3666,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3683,7 +3683,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3702,7 +3702,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3745,7 +3745,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3764,7 +3764,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
+%% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3785,7 +3785,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
+%% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3804,7 +3804,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3823,7 +3823,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3861,7 +3861,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -3884,7 +3884,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 1
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -3921,7 +3921,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3940,7 +3940,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3961,7 +3961,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3980,7 +3980,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -3999,7 +3999,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4042,7 +4042,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4061,7 +4061,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4082,7 +4082,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4099,7 +4099,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4118,7 +4118,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4137,7 +4137,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4172,7 +4172,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 12, lastPitch 57, pitch 69, tpcDiff 0
+%% pitchDiff 12, lastPitch 57, pitch 69, tpcDiff 0
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -4190,7 +4190,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4213,7 +4213,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 72 14 quarter 
-% pitchDiff 1, lastPitch 71, pitch 72, tpcDiff -5
+%% pitchDiff 1, lastPitch 71, pitch 72, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4232,7 +4232,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff -8, lastPitch 72, pitch 64, tpcDiff 4
+%% pitchDiff -8, lastPitch 72, pitch 64, tpcDiff 4
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -4262,7 +4262,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 72 14 eighth 
-% pitchDiff 8, lastPitch 64, pitch 72, tpcDiff -4
+%% pitchDiff 8, lastPitch 64, pitch 72, tpcDiff -4
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -4286,7 +4286,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 72 14 eighth 
-% pitchDiff 0, lastPitch 72, pitch 72, tpcDiff 0
+%% pitchDiff 0, lastPitch 72, pitch 72, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4316,7 +4316,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff -1, lastPitch 72, pitch 71, tpcDiff 5
+%% pitchDiff -1, lastPitch 72, pitch 71, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -4328,7 +4328,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
+%% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -4349,7 +4349,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4383,7 +4383,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
+%% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -4404,7 +4404,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 quarter 
-% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
+%% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4421,7 +4421,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
+%% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4446,7 +4446,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 quarter 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4465,7 +4465,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff -7, lastPitch 71, pitch 64, tpcDiff -1
+%% pitchDiff -7, lastPitch 71, pitch 64, tpcDiff -1
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -4490,7 +4490,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 74 16 eighth 
-% pitchDiff 10, lastPitch 64, pitch 74, tpcDiff -2
+%% pitchDiff 10, lastPitch 64, pitch 74, tpcDiff -2
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -4510,7 +4510,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 74 16 eighth 
-% pitchDiff 0, lastPitch 74, pitch 74, tpcDiff 0
+%% pitchDiff 0, lastPitch 74, pitch 74, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4529,7 +4529,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 72 14 eighth 
-% pitchDiff -2, lastPitch 74, pitch 72, tpcDiff -2
+%% pitchDiff -2, lastPitch 74, pitch 72, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4556,7 +4556,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff -1, lastPitch 72, pitch 71, tpcDiff 5
+%% pitchDiff -1, lastPitch 72, pitch 71, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4586,7 +4586,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
+%% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -4607,7 +4607,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
+%% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4636,7 +4636,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4659,7 +4659,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4678,7 +4678,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 quarter 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4697,7 +4697,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 quarter 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4727,7 +4727,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
+%% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4746,7 +4746,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4780,7 +4780,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
+%% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -4801,7 +4801,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4820,7 +4820,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4841,7 +4841,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4881,7 +4881,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -4910,7 +4910,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 half 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -4947,7 +4947,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
+%% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4964,7 +4964,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -4987,7 +4987,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff -4, lastPitch 71, pitch 67, tpcDiff -4
+%% pitchDiff -4, lastPitch 71, pitch 67, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5006,7 +5006,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5040,7 +5040,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
+%% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -5061,7 +5061,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5080,7 +5080,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5101,7 +5101,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5141,7 +5141,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -5170,7 +5170,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -5213,7 +5213,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 3, lastPitch 64, pitch 67, tpcDiff -3
+%% pitchDiff 3, lastPitch 64, pitch 67, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5232,7 +5232,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5266,7 +5266,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
+%% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -5287,7 +5287,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5306,7 +5306,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5327,7 +5327,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5367,7 +5367,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -5396,7 +5396,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -5434,7 +5434,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 1
-% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
+%% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
@@ -5455,7 +5455,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 16th 
-% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
+%% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5489,7 +5489,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
+%% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -5510,7 +5510,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5527,7 +5527,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
+%% pitchDiff 2, lastPitch 67, pitch 69, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5565,7 +5565,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -5, lastPitch 69, pitch 64, tpcDiff 1
+%% pitchDiff -5, lastPitch 69, pitch 64, tpcDiff 1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5584,7 +5584,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5603,7 +5603,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5624,7 +5624,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5641,7 +5641,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5660,7 +5660,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5703,7 +5703,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5720,7 +5720,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
+%% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5739,7 +5739,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
+%% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5769,7 +5769,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -5790,7 +5790,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5845,7 +5845,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -5868,7 +5868,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 1
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -5909,7 +5909,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5926,7 +5926,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5945,7 +5945,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5966,7 +5966,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -5996,7 +5996,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -6017,7 +6017,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6060,7 +6060,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6077,7 +6077,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6094,7 +6094,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6111,7 +6111,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6141,7 +6141,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -6162,7 +6162,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6197,7 +6197,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 12, lastPitch 57, pitch 69, tpcDiff 0
+%% pitchDiff 12, lastPitch 57, pitch 69, tpcDiff 0
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -6215,7 +6215,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
+%% pitchDiff 2, lastPitch 69, pitch 71, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6253,7 +6253,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 4, lastPitch 60, pitch 64, tpcDiff 4
+%% pitchDiff 4, lastPitch 60, pitch 64, tpcDiff 4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6272,7 +6272,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6293,7 +6293,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6310,7 +6310,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6327,7 +6327,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6346,7 +6346,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6389,7 +6389,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6408,7 +6408,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
+%% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6429,7 +6429,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
+%% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6448,7 +6448,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6467,7 +6467,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6505,7 +6505,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -6528,7 +6528,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 1
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -6565,7 +6565,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6584,7 +6584,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6605,7 +6605,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6624,7 +6624,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6643,7 +6643,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6686,7 +6686,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6705,7 +6705,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6726,7 +6726,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6743,7 +6743,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6762,7 +6762,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6781,7 +6781,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6816,7 +6816,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 7, lastPitch 57, pitch 64, tpcDiff 1
+%% pitchDiff 7, lastPitch 57, pitch 64, tpcDiff 1
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -6834,7 +6834,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 68 22 eighth 
-% pitchDiff 4, lastPitch 64, pitch 68, tpcDiff 4
+%% pitchDiff 4, lastPitch 64, pitch 68, tpcDiff 4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6861,7 +6861,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 quarter 
-% pitchDiff 1, lastPitch 68, pitch 69, tpcDiff -5
+%% pitchDiff 1, lastPitch 68, pitch 69, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6880,7 +6880,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff -5, lastPitch 69, pitch 64, tpcDiff 1
+%% pitchDiff -5, lastPitch 69, pitch 64, tpcDiff 1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6909,7 +6909,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
+%% pitchDiff 5, lastPitch 64, pitch 69, tpcDiff -1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6932,7 +6932,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
+%% pitchDiff 0, lastPitch 69, pitch 69, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -6962,7 +6962,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
+%% pitchDiff -2, lastPitch 69, pitch 67, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -6974,7 +6974,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -3, lastPitch 67, pitch 64, tpcDiff 3
+%% pitchDiff -3, lastPitch 67, pitch 64, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -6995,7 +6995,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 3, lastPitch 64, pitch 67, tpcDiff -3
+%% pitchDiff 3, lastPitch 64, pitch 67, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7029,7 +7029,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -7050,7 +7050,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7067,7 +7067,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 eighth 
-% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
+%% pitchDiff 0, lastPitch 67, pitch 67, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7092,7 +7092,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 68 22 quarter 
-% pitchDiff 1, lastPitch 67, pitch 68, tpcDiff 7
+%% pitchDiff 1, lastPitch 67, pitch 68, tpcDiff 7
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7115,7 +7115,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff -4, lastPitch 68, pitch 64, tpcDiff -4
+%% pitchDiff -4, lastPitch 68, pitch 64, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7139,7 +7139,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 7, lastPitch 64, pitch 71, tpcDiff 1
+%% pitchDiff 7, lastPitch 64, pitch 71, tpcDiff 1
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -7159,7 +7159,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 71 19 eighth 
-% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
+%% pitchDiff 0, lastPitch 71, pitch 71, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7178,7 +7178,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 69 17 eighth 
-% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
+%% pitchDiff -2, lastPitch 71, pitch 69, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7205,7 +7205,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -4, lastPitch 69, pitch 65, tpcDiff -4
+%% pitchDiff -4, lastPitch 69, pitch 65, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7235,7 +7235,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -7256,7 +7256,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7285,7 +7285,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
+%% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7308,7 +7308,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7327,7 +7327,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
+%% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7346,7 +7346,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
+%% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7376,7 +7376,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7395,7 +7395,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7429,7 +7429,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -7450,7 +7450,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7469,7 +7469,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7490,7 +7490,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7530,7 +7530,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
+%% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -7559,7 +7559,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 half 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -7596,7 +7596,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7613,7 +7613,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 68 22 eighth 
-% pitchDiff 4, lastPitch 64, pitch 68, tpcDiff 4
+%% pitchDiff 4, lastPitch 64, pitch 68, tpcDiff 4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7640,7 +7640,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff -6, lastPitch 68, pitch 62, tpcDiff -6
+%% pitchDiff -6, lastPitch 68, pitch 62, tpcDiff -6
 %% pitchDiff < but exception
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -7660,7 +7660,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7694,7 +7694,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -7715,7 +7715,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7734,7 +7734,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7755,7 +7755,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7795,7 +7795,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
+%% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -7824,7 +7824,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -7867,7 +7867,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
+%% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7886,7 +7886,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7920,7 +7920,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -7941,7 +7941,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7960,7 +7960,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -7981,7 +7981,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8021,7 +8021,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
+%% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -8050,7 +8050,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 whole 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -8088,7 +8088,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 1
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
@@ -8109,7 +8109,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 16th 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8143,7 +8143,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -8164,7 +8164,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
+%% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8181,7 +8181,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
+%% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8219,7 +8219,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8238,7 +8238,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8257,7 +8257,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8278,7 +8278,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8295,7 +8295,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8314,7 +8314,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8357,7 +8357,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8374,7 +8374,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
+%% pitchDiff 1, lastPitch 64, pitch 65, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8393,7 +8393,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 67 15 quarter 
-% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
+%% pitchDiff 2, lastPitch 65, pitch 67, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8423,7 +8423,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
+%% pitchDiff -2, lastPitch 67, pitch 65, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -8444,7 +8444,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8499,7 +8499,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -8522,7 +8522,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 1
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -8563,7 +8563,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8580,7 +8580,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8599,7 +8599,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8620,7 +8620,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8650,7 +8650,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
+%% pitchDiff 3, lastPitch 62, pitch 65, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -8671,7 +8671,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8714,7 +8714,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8731,7 +8731,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8748,7 +8748,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
+%% pitchDiff -4, lastPitch 64, pitch 60, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8765,7 +8765,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8795,7 +8795,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -8816,7 +8816,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8851,7 +8851,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 7, lastPitch 57, pitch 64, tpcDiff 1
+%% pitchDiff 7, lastPitch 57, pitch 64, tpcDiff 1
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -8869,7 +8869,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 68 22 eighth 
-% pitchDiff 4, lastPitch 64, pitch 68, tpcDiff 4
+%% pitchDiff 4, lastPitch 64, pitch 68, tpcDiff 4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8918,7 +8918,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -8, lastPitch 60, pitch 52, tpcDiff 4
+%% pitchDiff -8, lastPitch 60, pitch 52, tpcDiff 4
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -8938,7 +8938,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8959,7 +8959,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8976,7 +8976,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -8993,7 +8993,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9012,7 +9012,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9055,7 +9055,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9074,7 +9074,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 1, lastPitch 52, pitch 53, tpcDiff -5
+%% pitchDiff 1, lastPitch 52, pitch 53, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9095,7 +9095,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
+%% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9114,7 +9114,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
+%% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9133,7 +9133,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
+%% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9171,7 +9171,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
+%% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -9194,7 +9194,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 1
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -9231,7 +9231,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9250,7 +9250,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9271,7 +9271,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9290,7 +9290,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9309,7 +9309,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9352,7 +9352,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9371,7 +9371,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9392,7 +9392,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9409,7 +9409,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9428,7 +9428,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -2, lastPitch 50, pitch 48, tpcDiff -2
+%% pitchDiff -2, lastPitch 50, pitch 48, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9447,7 +9447,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 45 17 eighth 
-% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
+%% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9482,7 +9482,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff 15, lastPitch 45, pitch 60, tpcDiff -3
+%% pitchDiff 15, lastPitch 45, pitch 60, tpcDiff -3
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -9500,7 +9500,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9523,7 +9523,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 quarter 
-% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
+%% pitchDiff 2, lastPitch 62, pitch 64, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9542,7 +9542,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 quarter 
-% pitchDiff -7, lastPitch 64, pitch 57, tpcDiff -1
+%% pitchDiff -7, lastPitch 64, pitch 57, tpcDiff -1
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -9572,7 +9572,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 7, lastPitch 57, pitch 64, tpcDiff 1
+%% pitchDiff 7, lastPitch 57, pitch 64, tpcDiff 1
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -9596,7 +9596,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
+%% pitchDiff 0, lastPitch 64, pitch 64, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9626,7 +9626,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
+%% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -9638,7 +9638,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -9659,7 +9659,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9693,7 +9693,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -9714,7 +9714,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
+%% pitchDiff 0, lastPitch 62, pitch 62, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9731,7 +9731,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9756,7 +9756,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 quarter 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9775,7 +9775,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 quarter 
-% pitchDiff -3, lastPitch 62, pitch 59, tpcDiff 3
+%% pitchDiff -3, lastPitch 62, pitch 59, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9799,7 +9799,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 6, lastPitch 59, pitch 65, tpcDiff -6
+%% pitchDiff 6, lastPitch 59, pitch 65, tpcDiff -6
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -9819,7 +9819,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 65 13 eighth 
-% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
+%% pitchDiff 0, lastPitch 65, pitch 65, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9838,7 +9838,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 64 18 eighth 
-% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
+%% pitchDiff -1, lastPitch 65, pitch 64, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9865,7 +9865,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
+%% pitchDiff -2, lastPitch 64, pitch 62, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9895,7 +9895,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
+%% pitchDiff -2, lastPitch 62, pitch 60, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -9916,7 +9916,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
+%% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9945,7 +9945,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
+%% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9968,7 +9968,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 quarter 
-% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
+%% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -9987,7 +9987,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 quarter 
-% pitchDiff -2, lastPitch 59, pitch 57, tpcDiff -2
+%% pitchDiff -2, lastPitch 59, pitch 57, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10006,7 +10006,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 quarter 
-% pitchDiff 0, lastPitch 57, pitch 57, tpcDiff 0
+%% pitchDiff 0, lastPitch 57, pitch 57, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10036,7 +10036,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 quarter 
-% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
+%% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10055,7 +10055,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
+%% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10089,7 +10089,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -10110,7 +10110,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff -5, lastPitch 60, pitch 55, tpcDiff 1
+%% pitchDiff -5, lastPitch 60, pitch 55, tpcDiff 1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10129,7 +10129,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
+%% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10150,7 +10150,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
+%% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10190,7 +10190,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 whole 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -10208,7 +10208,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 half 
-% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
+%% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -10236,7 +10236,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10253,7 +10253,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10276,7 +10276,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 quarter 
-% pitchDiff -3, lastPitch 62, pitch 59, tpcDiff 3
+%% pitchDiff -3, lastPitch 62, pitch 59, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10295,7 +10295,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
+%% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10329,7 +10329,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -10350,7 +10350,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff -5, lastPitch 60, pitch 55, tpcDiff 1
+%% pitchDiff -5, lastPitch 60, pitch 55, tpcDiff 1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10369,7 +10369,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
+%% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10390,7 +10390,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
+%% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10430,7 +10430,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 whole 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -10448,7 +10448,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 whole 
-% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
+%% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -10482,7 +10482,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 quarter 
-% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
+%% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10501,7 +10501,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
+%% pitchDiff 0, lastPitch 59, pitch 59, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10535,7 +10535,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -10556,7 +10556,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff -5, lastPitch 60, pitch 55, tpcDiff 1
+%% pitchDiff -5, lastPitch 60, pitch 55, tpcDiff 1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10575,7 +10575,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
+%% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10596,7 +10596,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
+%% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10636,7 +10636,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 whole 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -10654,7 +10654,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 whole 
-% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
+%% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -10683,7 +10683,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 1
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
@@ -10704,7 +10704,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 16th 
-% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
+%% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10738,7 +10738,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
+%% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -10759,7 +10759,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
+%% pitchDiff -1, lastPitch 60, pitch 59, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10776,7 +10776,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10814,7 +10814,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -8, lastPitch 60, pitch 52, tpcDiff 4
+%% pitchDiff -8, lastPitch 60, pitch 52, tpcDiff 4
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -10834,7 +10834,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10853,7 +10853,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10874,7 +10874,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10891,7 +10891,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10910,7 +10910,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10953,7 +10953,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10970,7 +10970,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 1, lastPitch 52, pitch 53, tpcDiff -5
+%% pitchDiff 1, lastPitch 52, pitch 53, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -10989,7 +10989,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
+%% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11019,7 +11019,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
+%% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -11040,7 +11040,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
+%% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11095,7 +11095,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
+%% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -11118,7 +11118,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 1
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -11159,7 +11159,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11176,7 +11176,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11195,7 +11195,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11216,7 +11216,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11246,7 +11246,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -11267,7 +11267,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11310,7 +11310,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11327,7 +11327,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11344,7 +11344,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11361,7 +11361,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11391,7 +11391,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -2, lastPitch 50, pitch 48, tpcDiff -2
+%% pitchDiff -2, lastPitch 50, pitch 48, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -11412,7 +11412,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 45 17 eighth 
-% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
+%% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11447,7 +11447,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff 15, lastPitch 45, pitch 60, tpcDiff -3
+%% pitchDiff 15, lastPitch 45, pitch 60, tpcDiff -3
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -11465,7 +11465,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 62 16 eighth 
-% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
+%% pitchDiff 2, lastPitch 60, pitch 62, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11503,7 +11503,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -8, lastPitch 60, pitch 52, tpcDiff 4
+%% pitchDiff -8, lastPitch 60, pitch 52, tpcDiff 4
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -11523,7 +11523,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11544,7 +11544,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11561,7 +11561,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11578,7 +11578,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11597,7 +11597,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11640,7 +11640,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11659,7 +11659,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 1, lastPitch 52, pitch 53, tpcDiff -5
+%% pitchDiff 1, lastPitch 52, pitch 53, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11680,7 +11680,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
+%% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11699,7 +11699,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
+%% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11718,7 +11718,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
+%% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11756,7 +11756,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
+%% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -11779,7 +11779,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 1
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -11816,7 +11816,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11835,7 +11835,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11856,7 +11856,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11875,7 +11875,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11894,7 +11894,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11937,7 +11937,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11956,7 +11956,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11977,7 +11977,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -11994,7 +11994,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12013,7 +12013,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -2, lastPitch 50, pitch 48, tpcDiff -2
+%% pitchDiff -2, lastPitch 50, pitch 48, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12032,7 +12032,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 45 17 eighth 
-% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
+%% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12067,7 +12067,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 quarter 
-% pitchDiff 3, lastPitch 45, pitch 48, tpcDiff -3
+%% pitchDiff 3, lastPitch 45, pitch 48, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12084,7 +12084,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 47 19 eighth 
-% pitchDiff -1, lastPitch 48, pitch 47, tpcDiff 5
+%% pitchDiff -1, lastPitch 48, pitch 47, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12107,7 +12107,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 45 17 quarter 
-% pitchDiff -2, lastPitch 47, pitch 45, tpcDiff -2
+%% pitchDiff -2, lastPitch 47, pitch 45, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12126,7 +12126,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 quarter 
-% pitchDiff 3, lastPitch 45, pitch 48, tpcDiff -3
+%% pitchDiff 3, lastPitch 45, pitch 48, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12155,7 +12155,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 45 17 eighth 
-% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
+%% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12178,7 +12178,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 45 17 eighth 
-% pitchDiff 0, lastPitch 45, pitch 45, tpcDiff 0
+%% pitchDiff 0, lastPitch 45, pitch 45, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12208,7 +12208,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 47 19 eighth 
-% pitchDiff 2, lastPitch 45, pitch 47, tpcDiff 2
+%% pitchDiff 2, lastPitch 45, pitch 47, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -12220,7 +12220,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff 1, lastPitch 47, pitch 48, tpcDiff -5
+%% pitchDiff 1, lastPitch 47, pitch 48, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -12241,7 +12241,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 eighth 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12275,7 +12275,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 eighth 
-% pitchDiff 0, lastPitch 50, pitch 50, tpcDiff 0
+%% pitchDiff 0, lastPitch 50, pitch 50, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -12296,7 +12296,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 0, lastPitch 50, pitch 50, tpcDiff 0
+%% pitchDiff 0, lastPitch 50, pitch 50, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12313,7 +12313,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12338,7 +12338,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12357,7 +12357,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 56 22 quarter 
-% pitchDiff 4, lastPitch 52, pitch 56, tpcDiff 4
+%% pitchDiff 4, lastPitch 52, pitch 56, tpcDiff 4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12385,7 +12385,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 56 22 eighth 
-% pitchDiff 0, lastPitch 56, pitch 56, tpcDiff 0
+%% pitchDiff 0, lastPitch 56, pitch 56, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12404,7 +12404,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 56 22 eighth 
-% pitchDiff 0, lastPitch 56, pitch 56, tpcDiff 0
+%% pitchDiff 0, lastPitch 56, pitch 56, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12423,7 +12423,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff 1, lastPitch 56, pitch 57, tpcDiff -5
+%% pitchDiff 1, lastPitch 56, pitch 57, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12450,7 +12450,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 eighth 
-% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
+%% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12480,7 +12480,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -12501,7 +12501,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 quarter 
-% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
+%% pitchDiff 0, lastPitch 60, pitch 60, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12530,7 +12530,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 eighth 
-% pitchDiff -5, lastPitch 60, pitch 55, tpcDiff 1
+%% pitchDiff -5, lastPitch 60, pitch 55, tpcDiff 1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12553,7 +12553,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 quarter 
-% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
+%% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12572,7 +12572,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
+%% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12591,7 +12591,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 quarter 
-% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
+%% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12621,7 +12621,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
+%% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12651,7 +12651,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 quarter 
-% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
+%% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12679,7 +12679,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 quarter 
-% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
+%% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12709,7 +12709,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12739,7 +12739,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12779,7 +12779,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 whole 
-% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
+%% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -12797,7 +12797,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 56 22 half 
-% pitchDiff 1, lastPitch 55, pitch 56, tpcDiff 7
+%% pitchDiff 1, lastPitch 55, pitch 56, tpcDiff 7
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="half"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -12829,7 +12829,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 quarter 
-% pitchDiff -8, lastPitch 56, pitch 48, tpcDiff -8
+%% pitchDiff -8, lastPitch 56, pitch 48, tpcDiff -8
 %% pitchDiff <
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -12847,7 +12847,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 47 19 eighth 
-% pitchDiff -1, lastPitch 48, pitch 47, tpcDiff 5
+%% pitchDiff -1, lastPitch 48, pitch 47, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12870,7 +12870,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff 8, lastPitch 47, pitch 55, tpcDiff -4
+%% pitchDiff 8, lastPitch 47, pitch 55, tpcDiff -4
 %% pitchDiff >
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
@@ -12901,7 +12901,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 quarter 
-% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
+%% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12929,7 +12929,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 quarter 
-% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
+%% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12959,7 +12959,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -12989,7 +12989,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13029,7 +13029,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 whole 
-% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
+%% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -13047,7 +13047,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 56 22 whole 
-% pitchDiff 1, lastPitch 55, pitch 56, tpcDiff 7
+%% pitchDiff 1, lastPitch 55, pitch 56, tpcDiff 7
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -13085,7 +13085,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff -1, lastPitch 56, pitch 55, tpcDiff -7
+%% pitchDiff -1, lastPitch 56, pitch 55, tpcDiff -7
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13115,7 +13115,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 quarter 
-% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
+%% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13143,7 +13143,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 59 19 quarter 
-% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
+%% pitchDiff 2, lastPitch 57, pitch 59, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13173,7 +13173,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 60 14 eighth 
-% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
+%% pitchDiff 1, lastPitch 59, pitch 60, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13203,7 +13203,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
+%% pitchDiff -3, lastPitch 60, pitch 57, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13243,7 +13243,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 whole 
-% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
+%% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -13261,7 +13261,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 56 22 whole 
-% pitchDiff 1, lastPitch 55, pitch 56, tpcDiff 7
+%% pitchDiff 1, lastPitch 55, pitch 56, tpcDiff 7
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="whole"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -13294,7 +13294,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 1
-% pitchDiff 1, lastPitch 56, pitch 57, tpcDiff -5
+%% pitchDiff 1, lastPitch 56, pitch 57, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
@@ -13315,7 +13315,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 16th 
-% pitchDiff 0, lastPitch 57, pitch 57, tpcDiff 0
+%% pitchDiff 0, lastPitch 57, pitch 57, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="16th"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13349,7 +13349,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 eighth 
-% pitchDiff 0, lastPitch 57, pitch 57, tpcDiff 0
+%% pitchDiff 0, lastPitch 57, pitch 57, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -13370,7 +13370,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 eighth 
-% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
+%% pitchDiff -2, lastPitch 57, pitch 55, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13387,7 +13387,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 57 17 quarter 
-% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
+%% pitchDiff 2, lastPitch 55, pitch 57, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13425,7 +13425,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -5, lastPitch 57, pitch 52, tpcDiff 1
+%% pitchDiff -5, lastPitch 57, pitch 52, tpcDiff 1
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13444,7 +13444,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13463,7 +13463,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13484,7 +13484,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13501,7 +13501,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13520,7 +13520,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13563,7 +13563,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13580,7 +13580,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 1, lastPitch 52, pitch 53, tpcDiff -5
+%% pitchDiff 1, lastPitch 52, pitch 53, tpcDiff -5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13599,7 +13599,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 55 15 quarter 
-% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
+%% pitchDiff 2, lastPitch 53, pitch 55, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13629,7 +13629,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
+%% pitchDiff -2, lastPitch 55, pitch 53, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -13650,7 +13650,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
+%% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13705,7 +13705,7 @@
 %% -> /museScore/Score/Staff/Measure/voice
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
+%% pitchDiff 0, lastPitch 53, pitch 53, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Note
@@ -13728,7 +13728,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 quarter 1
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/dots text="1"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/dots
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
@@ -13769,7 +13769,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13786,7 +13786,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13805,7 +13805,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13826,7 +13826,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13856,7 +13856,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 53 13 eighth 
-% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
+%% pitchDiff 3, lastPitch 50, pitch 53, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -13877,7 +13877,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
+%% pitchDiff -1, lastPitch 53, pitch 52, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13920,7 +13920,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13937,7 +13937,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 52 18 eighth 
-% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
+%% pitchDiff 0, lastPitch 52, pitch 52, tpcDiff 0
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13954,7 +13954,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
+%% pitchDiff -4, lastPitch 52, pitch 48, tpcDiff -4
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -13971,7 +13971,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 50 16 quarter 
-% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
+%% pitchDiff 2, lastPitch 48, pitch 50, tpcDiff 2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -14001,7 +14001,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 eighth 
-% pitchDiff -2, lastPitch 50, pitch 48, tpcDiff -2
+%% pitchDiff -2, lastPitch 50, pitch 48, tpcDiff -2
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Spanner attr="[('type', 'Slur')]"
@@ -14022,7 +14022,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 45 17 eighth 
-% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
+%% pitchDiff -3, lastPitch 48, pitch 45, tpcDiff 3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -14057,7 +14057,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Rest
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 48 14 quarter 
-% pitchDiff 3, lastPitch 45, pitch 48, tpcDiff -3
+%% pitchDiff 3, lastPitch 45, pitch 48, tpcDiff -3
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="quarter"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -14074,7 +14074,7 @@
 %% <- /museScore/Score/Staff/Measure/voice/Chord
 %% -> /museScore/Score/Staff/Measure/voice/Chord
 %% chord: 47 19 eighth 
-% pitchDiff -1, lastPitch 48, pitch 47, tpcDiff 5
+%% pitchDiff -1, lastPitch 48, pitch 47, tpcDiff 5
 %% -> /museScore/Score/Staff/Measure/voice/Chord/durationType text="eighth"
 %% <- /museScore/Score/Staff/Measure/voice/Chord/durationType
 %% -> /museScore/Score/Staff/Measure/voice/Chord/Lyrics
@@ -14108,6 +14108,8 @@
   composer = "Frank Bosch, Psalam 108,4-6"
 }
 
+voltaTwoC = \markup{ 2. \text { to \box \bold C }}
+
 staffOne = \relative c' {
   \clef treble
   \time 4/4
@@ -14129,19 +14131,22 @@ staffOne = \relative c' {
   h8 ( a8 ) a4 r4 r8 g8 |
   g4 f4 f4 r4 |
   
-  \set Score.repeatCommands = #'((volta "1.3."))
+  \set Score.repeatCommands = #'((volta "1. 3."))
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
   e2 ) r8 a4 h8 \bar ":|." |
-  \set Score.repeatCommands = #'((volta #f))  
-  \set Score.repeatCommands = #'((volta "2."))
   
+  
+  \set Score.repeatCommands = #'((volta #f))
+  \set Score.repeatCommands = #(list (list 'volta voltaTwoC)) 
+
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
   e1 ) \bar "||" |
   
-  \set Score.repeatCommands = #'((volta #f))
+  \set Score.repeatCommands = #'((volta #f))  
   \set Score.repeatCommands = #'((volta "4."))
+
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
   e1 ) |
