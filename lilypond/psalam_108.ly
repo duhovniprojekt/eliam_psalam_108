@@ -14133,16 +14133,14 @@ staffOne = \relative c' {
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
   e2 ) r8 a4 h8 \bar ":|." |
-  
+  \set Score.repeatCommands = #'((volta #f))  
   \set Score.repeatCommands = #'((volta "2."))
   
-  \set Score.repeatCommands = #'((volta #f))
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
   e1 ) \bar "||" |
   
   \set Score.repeatCommands = #'((volta #f))
-  
   \set Score.repeatCommands = #'((volta "4."))
   g4 g8 ( a8 ) g4 f8 f8 ( |
   e1 ~ |
